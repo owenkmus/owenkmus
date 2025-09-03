@@ -1,4 +1,4 @@
-<h2 align="left">Hola 👋, mi nombre es Cristian Sosa y soy profesional en el desarrollo de software y soluciones tecnológicas a la medida, con experiencia en aplicaciones web, móviles y en la nube, SaaS, administración de bases de datos y software personalizado.</h2>
+<h2 align="left">Hola 👋, mi nombre es Cristian Sosa y soy profesional en el desarrollo de software y soluciones tecnológicas a la medida, apoyo a empresas y organizaciones en sus procesos de transformación digital, aportando valor a través de la consultoría en TI y el diseño de experiencia de usuario (UX), garantizando calidad, seguridad y escalabilidad en cada proyecto.</h2>
 
 ###
 
